@@ -17,6 +17,9 @@ Python-скрипт для сбора данных о товарах с AliExpre
 1. Запустите скрипт:
 ```bash
 git clone https://github.com/m00n33r/Aliexpress_parse.git
+
+pip install -r requirements.txt
+
 python3 aliexpress_parser.py
 ```
 
